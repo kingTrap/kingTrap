@@ -10,11 +10,11 @@
 
 #### PS:中间有点小插曲，因为把HelloApplication.java放的目录跟controller同级，导致页面报404；这说明启动类必须在扫描路径的上一级目录才行！
 
-## springboot系列之二
+# springboot系列之二 
 
-- JSON返回数据
-- b
-- c
+## 认认真真梳理自动装配原理
+
+- https://blog.csdn.net/qq_42046105/article/details/103441630
 
 ## springboot系列之三
 
